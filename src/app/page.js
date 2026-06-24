@@ -32,8 +32,8 @@ const PROJECTS = [
     ],
     stack: ['Python', 'LangGraph', 'Groq API', 'Tavily', 'ChromaDB', 'FastAPI', 'React', 'Docker'],
     accent: 'from-violet-500 via-fuchsia-500 to-pink-500',
-    live: 'https://github.com/tanishkraghav',
-    github: 'https://github.com/tanishkraghav',
+    live: 'https://research-pilot-eight-beryl.vercel.app/',
+    github: 'https://github.com/tanishkraghav/research-pilot.git',
   },
   {
     name: 'Text-to-SQL LLM App',
