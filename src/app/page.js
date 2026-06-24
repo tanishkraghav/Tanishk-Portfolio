@@ -23,7 +23,7 @@ const PROJECTS = [
   {
     name: 'ResearchPilot',
     tag: 'Multi-Agent AI',
-    year: '2024',
+    year: '2026',
     description:
       'A 5-node LangGraph supervisor graph routing queries across specialist agents with confidence-weighted synthesis and PromptOps eval layer.',
     bullets: [
@@ -38,7 +38,7 @@ const PROJECTS = [
   {
     name: 'Text-to-SQL LLM App',
     tag: 'Generative AI',
-    year: '2024',
+    year: '2025',
     description:
       'A Streamlit app using Groq API and LangChain to translate natural language to SQL, achieving 92% accuracy.',
     bullets: [
@@ -47,13 +47,13 @@ const PROJECTS = [
     ],
     stack: ['Python', 'Streamlit', 'Groq API', 'LangChain', 'SQL'],
     accent: 'from-sky-500 via-cyan-400 to-emerald-400',
-    live: 'https://github.com/tanishkraghav',
-    github: 'https://github.com/tanishkraghav',
+    live: 'https://texttosqlapp.streamlit.app/',
+    github: 'https://github.com/tanishkraghav/text_to_sql_app.git',
   },
   {
     name: 'AI Persona',
     tag: 'Voice & Chat Agent',
-    year: '2024',
+    year: '2026',
     description: 'A live AI persona integrating Vapi, Claude Sonnet, and ElevenLabs for voice calls, plus a Next.js chat interface with RAG over personal knowledge.',
     bullets: [
       'Orchestrated a Voice Agent (Vapi + Deepgram + Claude + ElevenLabs) achieving ~1.4s avg first-response latency.',
